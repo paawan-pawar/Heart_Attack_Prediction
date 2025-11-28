@@ -18,8 +18,8 @@ st.set_page_config(page_title="Heart Attack Predictor", layout="wide")
 # Use a Windows full path or a relative path. Example:
 # DEFAULT_MODEL_PATH = r"C:\Users\LENOVO\OneDrive\Desktop\Heart_attack\model.joblib"
 # DEFAULT_DATA_PATH  = r"C:\Users\LENOVO\OneDrive\Desktop\Heart_attack\heart_data.csv"
-DEFAULT_MODEL_PATH = r"C:\Users\LENOVO\OneDrive\Desktop\Heart_attack\rfc.jb"   # <--- change if needed
-DEFAULT_DATA_PATH  = r"C:\Users\LENOVO\OneDrive\Desktop\Heart_attack\Heart_attack.csv"     # <--- change if needed
+DEFAULT_MODEL_PATH = r"rfc.jb"   # <--- change if needed
+DEFAULT_DATA_PATH  = r"Heart_attack.csv"     # <--- change if needed
 # ----------------------------------------------------
 
 FEATURES = [
