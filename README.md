@@ -1,6 +1,8 @@
 Machine Learning Model
 📌 Heart Attack Prediction App (Streamlit + Machine Learning)
 
+Streamlit: https://heartattackprediction-ct6fyscom8srn7hxgzb6mg.streamlit.app/
+
 This project is a Streamlit-based interactive web app that predicts the chance of a heart attack using a trained machine learning model.
 It supports:
 
